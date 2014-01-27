@@ -1,0 +1,14 @@
+Package: playfair
+Title: Data from William Playfair's Works
+Description: Data from William Playfair's works, which included the first uses
+    of line, bar, and pie charts.
+Version: 0.1
+Authors@R: "Jeffrey B. Arnold <jeffrey.arnold@gmail.com> [aut, cre]"
+Depends:
+    R (>= 3.0.2)
+Suggests:
+    ggplot2,
+    plyr,
+    reshape2
+License: GPL-3
+LazyData: true
