@@ -1,18 +1,18 @@
-"country";"exports";"imports"
-"Ireland";305167;195685
-"America";183620;49826
-"West Indies";141220;169375
-"Russia";5915;209000
-"Sweden";4793;18793
-"Flanders";56452;45803
-"Germany";26438;26659
-"Guernsey";17285;5197
-"Holland";;13563
-"Iceland";;465
-"Portugal";678;14614
-"Prussia";82;96
-"Poland";161;7389
-"Greenland";;8291
-"Isle of Man, Jersey";1818;802
-"Denmark and Norway";35011;28118
-"Total";763100;803860
+country,exports,imports
+Ireland,305167,195685
+America,183620,49826
+West Indies,141220,169375
+Russia,5915,209000
+Sweden,4793,18793
+Flanders,56452,45803
+Germany,26438,26659
+Guernsey,17285,5197
+Holland,,13563
+Iceland,,465
+Portugal,678,14614
+Prussia,82,96
+Poland,161,7389
+Greenland,,8291
+"Isle of Man, Jersey",1818,802
+Denmark and Norway,35011,28118
+Total,763100,803860

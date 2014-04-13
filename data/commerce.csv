@@ -1,197 +1,197 @@
-plate;country;page;year;exports;imports;balance
-Plate I;England;23;1700;4550;6300;1950
-Plate I;England;23;1710;4900;7000;2100
-Plate I;England;23;1720;5350;8600;3350
-Plate I;England;23;1730;7500;10900;3400
-Plate I;England;23;1740;7550;12000;4450
-Plate I;England;23;1750;7250;12650;5400
-Plate I;England;23;1760;10300;14250;3950
-Plate I;England;23;1770;11650;16300;4650
-Plate I;England;23;1780;10750;12400;1650
-Plate II;Ireland;23;1700;270;240;30
-Plate II;Ireland;23;1710;300;270;30
-Plate II;Ireland;23;1720;335;370;35
-Plate II;Ireland;23;1730;340;600;260
-Plate II;Ireland;23;1740;475;760;285
-Plate II;Ireland;23;1750;660;950;290
-Plate II;Ireland;23;1760;870;1450;580
-Plate II;Ireland;23;1770;1230;1870;640
-Plate II;Ireland;23;1780;1470;1890;420
-Plate III;Germany;23;1700;575;995;420
-Plate III;Germany;23;1710;610;895;285
-Plate III;Germany;23;1720;620;1000;380
-Plate III;Germany;23;1730;680;1105;425
-Plate III;Germany;23;1740;700;1155;455
-Plate III;Germany;23;1750;715;1405;690
-Plate III;Germany;23;1760;705;1615;910
-Plate III;Germany;23;1770;680;1820;1140
-Plate III;Germany;23;1780;670;1240;570
-Plate IV;West Indies;23;1700;580;305;285
-Plate IV;West Indies;23;1710;750;335;425
-Plate IV;West Indies;23;1720;1060;435;625
-Plate IV;West Indies;23;1730;1260;450;810
-Plate IV;West Indies;23;1740;1290;515;775
-Plate IV;West Indies;23;1750;1460;770;690
-Plate IV;West Indies;23;1760;2105;865;1240
-Plate IV;West Indies;23;1770;2995;1190;1805
-Plate IV;West Indies;23;1780;2210;1220;990
-Plate V;North America;24;1770;1480;4550;3070
-Plate V;North America;24;1771;1430;4630;3200
-Plate V;North America;24;1772;1445;3600;2155
-Plate V;North America;24;1773;1465;2465;1000
-Plate V;North America;24;1774;1435;3840;2300
-Plate V;North America;24;1775;2065;985;1080
-Plate V;North America;24;1776;245;1190;945
-Plate V;North America;24;1777;230;1880;1650
-Plate V;North America;24;1778;265;1150;885
-Plate V;North America;24;1779;295;1370;1075
-Plate V;North America;24;1780;300;1805;1505
-Plate V;North America;24;1781;385;1545;1160
-Plate V;North America;24;1782;295;905;610
-Plate VI;England for 12 Years: 1771 to 1782;59;1771;12800;17150;4350
-Plate VI;England for 12 Years: 1771 to 1782;59;1772;13300;16150;2850
-Plate VI;England for 12 Years: 1771 to 1782;59;1773;11400;14750;3350
-Plate VI;England for 12 Years: 1771 to 1782;59;1774;13250;15900;2650
-Plate VI;England for 12 Years: 1771 to 1782;59;1775;13550;15200;1650
-Plate VI;England for 12 Years: 1771 to 1782;59;1776;11700;13700;2000
-Plate VI;England for 12 Years: 1771 to 1782;59;1777;11850;12650;800
-Plate VI;England for 12 Years: 1771 to 1782;59;1778;10250;11550;1300
-Plate VI;England for 12 Years: 1771 to 1782;59;1779;10650;12650;2000
-Plate VI;England for 12 Years: 1771 to 1782;59;1780;10750;12550;1800
-Plate VI;England for 12 Years: 1771 to 1782;59;1781;11900;10550;1350
-Plate VI;England for 12 Years: 1771 to 1782;59;1782;9500;12350;2805
-Plate VII;East Indies;59;1700;440;140;300
-Plate VII;East Indies;59;1710;595;95;500
-Plate VII;East Indies;59;1720;880;120;760
-Plate VII;East Indies;59;1730;965;145;820
-Plate VII;East Indies;59;1740;970;360;610
-Plate VII;East Indies;59;1750;930;700;230
-Plate VII;East Indies;59;1760;1005;880;125
-Plate VII;East Indies;59;1770;1515;1330;185
-Plate VII;East Indies;59;1780;1550;840;710
-Plate VIII;France;59;1700;20;30;10
-Plate VIII;France;59;1710;50;75;25
-Plate VIII;France;59;1720;48;175;127
-Plate VIII;France;59;1730;51;255;204
-Plate VIII;France;59;1740;57;305;252
-Plate VIII;France;59;1750;31;285;254
-Plate VIII;France;59;1760;55;275;220
-Plate VIII;France;59;1770;80;165;85
-Plate VIII;France;59;1780;45;155;110
-Plate IX;Venice and Italy;59;1700;22;15.5;6.5
-Plate IX;Venice and Italy;59;1710;32.2;17.5;14.7
-Plate IX;Venice and Italy;59;1720;46.5;18;28.5
-Plate IX;Venice and Italy;59;1730;52.5;14.5;38
-Plate IX;Venice and Italy;59;1740;50;14.3;35.7
-Plate IX;Venice and Italy;59;1750;56;18.5;37.5
-Plate IX;Venice and Italy;59;1760;64;50;14
-Plate IX;Venice and Italy;59;1770;71;72.5;1.5
-Plate IX;Venice and Italy;59;1780;65.5;81;15.5
-Plate X;Russia;60;1700;109;135;26
-Plate X;Russia;60;1710;140;100;40
-Plate X;Russia;60;1720;195;50;145
-Plate X;Russia;60;1730;235;45;190
-Plate X;Russia;60;1740;335;75;260
-Plate X;Russia;60;1750;440;85;355
-Plate X;Russia;60;1760;570;98;472
-Plate X;Russia;60;1770;890;133;757
-Plate X;Russia;60;1780;1185;290;895
-Plate XVI;Holland;83;1700;2150;570;
-Plate XVI;Holland;83;1710;2100;510;
-Plate XVI;Holland;83;1720;1920;590;
-Plate XVI;Holland;83;1730;1840;510;
-Plate XVI;Holland;83;1740;2200;420;
-Plate XVI;Holland;83;1750;1930;370;
-Plate XVI;Holland;83;1760;1810;400;
-Plate XVI;Holland;83;1770;1780;480;
-Plate XVI;Holland;83;1780;1570;490;
-Plate XVII;The United States;83;1700;240;238;
-Plate XVII;The United States;83;1710;280;310;
-Plate XVII;The United States;83;1720;410;450;
-Plate XVII;The United States;83;1730;540;590;
-Plate XVII;The United States;83;1740;760;700;
-Plate XVII;The United States;83;1750;1110;760;
-Plate XVII;The United States;83;1760;1610;940;
-Plate XVII;The United States;83;1770;1660;900;
-Plate XVII;The United States;83;1780;1050;540;
-Plate XVIII;Denmark & Norway;83;1700;35;70;
-Plate XVIII;Denmark & Norway;83;1710;59;81;
-Plate XVIII;Denmark & Norway;83;1720;76;96;
-Plate XVIII;Denmark & Norway;83;1730;65;97;
-Plate XVIII;Denmark & Norway;83;1740;67;93;
-Plate XVIII;Denmark & Norway;83;1750;79;90;
-Plate XVIII;Denmark & Norway;83;1760;115;79;
-Plate XVIII;Denmark & Norway;83;1770;163;85;
-Plate XVIII;Denmark & Norway;83;1780;185;93;
-Plate XIX;Spanish West Indies;83;1700;;;
-Plate XIX;Spanish West Indies;83;1710;;;
-Plate XIX;Spanish West Indies;83;1720;84;34;
-Plate XIX;Spanish West Indies;83;1730;83;37;
-Plate XIX;Spanish West Indies;83;1740;11;12;
-Plate XIX;Spanish West Indies;83;1750;;;
-Plate XIX;Spanish West Indies;83;1760;1;13;
-Plate XIX;Spanish West Indies;83;1770;3;26;
-Plate XIX;Spanish West Indies;83;1780;7;28;
-Plate XX;Greenland;84;1700;;;
-Plate XX;Greenland;84;1710;;;
-Plate XX;Greenland;84;1720;0.1;0.2;
-Plate XX;Greenland;84;1730;0.05;2;
-Plate XX;Greenland;84;1740;;2.8;
-Plate XX;Greenland;84;1750;0.2;10;
-Plate XX;Greenland;84;1760;0.33;16;
-Plate XX;Greenland;84;1770;0.06;22;
-Plate XX;Greenland;84;1780;0.07;38;
-Plate XX;Bermuda;84;1700;0.6;0.5;
-Plate XX;Bermuda;84;1710;1;0.6;
-Plate XX;Bermuda;84;1720;3;1.9;
-Plate XX;Bermuda;84;1730;2.2;1.5;
-Plate XX;Bermuda;84;1740;1.5;0.8;
-Plate XX;Bermuda;84;1750;7.2;1.6;
-Plate XX;Bermuda;84;1760;10;1.8;
-Plate XX;Bermuda;84;1770;13;1.7;
-Plate XX;Bermuda;84;1780;15;1.7;
-Plate XXI;Sweden;111;1700;57;197;
-Plate XXI;Sweden;111;1710;46;160;
-Plate XXI;Sweden;111;1720;35;154;
-Plate XXI;Sweden;111;1730;29;183;
-Plate XXI;Sweden;111;1740;33;186;
-Plate XXI;Sweden;111;1750;30;196;
-Plate XXI;Sweden;111;1760;25;212;
-Plate XXI;Sweden;111;1770;57;209;
-Plate XXI;Sweden;111;1780;95;198;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1700;9;30;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1710;25;25;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1720;27;20;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1730;45;18;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1740;50;39;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1750;40;55;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1760;50;57;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1770;46;51;
-Plate XXII;"Guernsey; Jersey; and Alderney";111;1780;64;61;
-Plate XXIII;Africa;111;1700;11;14;
-Plate XXIII;Africa;111;1710;7;18;
-Plate XXIII;Africa;111;1720;12;30;
-Plate XXIII;Africa;111;1730;18;50;
-Plate XXIII;Africa;111;1740;15;32;
-Plate XXIII;Africa;111;1750;16;27;
-Plate XXIII;Africa;111;1760;30;43;
-Plate XXIII;Africa;111;1770;48;53;
-Plate XXIII;Africa;111;1780;53;73;
-Plate XXIV;Portugal & Madeira;111;1700;630;250;
-Plate XXIV;Portugal & Madeira;111;1710;700;275;
-Plate XXIV;Portugal & Madeira;111;1720;800;350;
-Plate XXIV;Portugal & Madeira;111;1730;1070;365;
-Plate XXIV;Portugal & Madeira;111;1740;1140;340;
-Plate XXIV;Portugal & Madeira;111;1750;1200;350;
-Plate XXIV;Portugal & Madeira;111;1760;1110;300;
-Plate XXIV;Portugal & Madeira;111;1770;680;360;
-Plate XXIV;Portugal & Madeira;111;1780;590;370;
-Plate XXV;Flanders;112;1700;80;7;
-Plate XXV;Flanders;112;1710;150;20;
-Plate XXV;Flanders;112;1720;245;51;
-Plate XXV;Flanders;112;1730;270;125;
-Plate XXV;Flanders;112;1740;390;150;
-Plate XXV;Flanders;112;1750;345;70;
-Plate XXV;Flanders;112;1760;420;70;
-Plate XXV;Flanders;112;1770;840;175;
-Plate XXV;Flanders;112;1780;1050;225;
+plate,country,page,year,exports,imports,balance
+Plate I,England,23,1700,4550,6300,1950
+Plate I,England,23,1710,4900,7000,2100
+Plate I,England,23,1720,5350,8600,3350
+Plate I,England,23,1730,7500,10900,3400
+Plate I,England,23,1740,7550,12000,4450
+Plate I,England,23,1750,7250,12650,5400
+Plate I,England,23,1760,10300,14250,3950
+Plate I,England,23,1770,11650,16300,4650
+Plate I,England,23,1780,10750,12400,1650
+Plate II,Ireland,23,1700,270,240,30
+Plate II,Ireland,23,1710,300,270,30
+Plate II,Ireland,23,1720,335,370,35
+Plate II,Ireland,23,1730,340,600,260
+Plate II,Ireland,23,1740,475,760,285
+Plate II,Ireland,23,1750,660,950,290
+Plate II,Ireland,23,1760,870,1450,580
+Plate II,Ireland,23,1770,1230,1870,640
+Plate II,Ireland,23,1780,1470,1890,420
+Plate III,Germany,23,1700,575,995,420
+Plate III,Germany,23,1710,610,895,285
+Plate III,Germany,23,1720,620,1000,380
+Plate III,Germany,23,1730,680,1105,425
+Plate III,Germany,23,1740,700,1155,455
+Plate III,Germany,23,1750,715,1405,690
+Plate III,Germany,23,1760,705,1615,910
+Plate III,Germany,23,1770,680,1820,1140
+Plate III,Germany,23,1780,670,1240,570
+Plate IV,West Indies,23,1700,580,305,285
+Plate IV,West Indies,23,1710,750,335,425
+Plate IV,West Indies,23,1720,1060,435,625
+Plate IV,West Indies,23,1730,1260,450,810
+Plate IV,West Indies,23,1740,1290,515,775
+Plate IV,West Indies,23,1750,1460,770,690
+Plate IV,West Indies,23,1760,2105,865,1240
+Plate IV,West Indies,23,1770,2995,1190,1805
+Plate IV,West Indies,23,1780,2210,1220,990
+Plate V,North America,24,1770,1480,4550,3070
+Plate V,North America,24,1771,1430,4630,3200
+Plate V,North America,24,1772,1445,3600,2155
+Plate V,North America,24,1773,1465,2465,1000
+Plate V,North America,24,1774,1435,3840,2300
+Plate V,North America,24,1775,2065,985,1080
+Plate V,North America,24,1776,245,1190,945
+Plate V,North America,24,1777,230,1880,1650
+Plate V,North America,24,1778,265,1150,885
+Plate V,North America,24,1779,295,1370,1075
+Plate V,North America,24,1780,300,1805,1505
+Plate V,North America,24,1781,385,1545,1160
+Plate V,North America,24,1782,295,905,610
+Plate VI,England for 12 Years: 1771 to 1782,59,1771,12800,17150,4350
+Plate VI,England for 12 Years: 1771 to 1782,59,1772,13300,16150,2850
+Plate VI,England for 12 Years: 1771 to 1782,59,1773,11400,14750,3350
+Plate VI,England for 12 Years: 1771 to 1782,59,1774,13250,15900,2650
+Plate VI,England for 12 Years: 1771 to 1782,59,1775,13550,15200,1650
+Plate VI,England for 12 Years: 1771 to 1782,59,1776,11700,13700,2000
+Plate VI,England for 12 Years: 1771 to 1782,59,1777,11850,12650,800
+Plate VI,England for 12 Years: 1771 to 1782,59,1778,10250,11550,1300
+Plate VI,England for 12 Years: 1771 to 1782,59,1779,10650,12650,2000
+Plate VI,England for 12 Years: 1771 to 1782,59,1780,10750,12550,1800
+Plate VI,England for 12 Years: 1771 to 1782,59,1781,11900,10550,1350
+Plate VI,England for 12 Years: 1771 to 1782,59,1782,9500,12350,2805
+Plate VII,East Indies,59,1700,440,140,300
+Plate VII,East Indies,59,1710,595,95,500
+Plate VII,East Indies,59,1720,880,120,760
+Plate VII,East Indies,59,1730,965,145,820
+Plate VII,East Indies,59,1740,970,360,610
+Plate VII,East Indies,59,1750,930,700,230
+Plate VII,East Indies,59,1760,1005,880,125
+Plate VII,East Indies,59,1770,1515,1330,185
+Plate VII,East Indies,59,1780,1550,840,710
+Plate VIII,France,59,1700,20,30,10
+Plate VIII,France,59,1710,50,75,25
+Plate VIII,France,59,1720,48,175,127
+Plate VIII,France,59,1730,51,255,204
+Plate VIII,France,59,1740,57,305,252
+Plate VIII,France,59,1750,31,285,254
+Plate VIII,France,59,1760,55,275,220
+Plate VIII,France,59,1770,80,165,85
+Plate VIII,France,59,1780,45,155,110
+Plate IX,Venice and Italy,59,1700,22,15.5,6.5
+Plate IX,Venice and Italy,59,1710,32.2,17.5,14.7
+Plate IX,Venice and Italy,59,1720,46.5,18,28.5
+Plate IX,Venice and Italy,59,1730,52.5,14.5,38
+Plate IX,Venice and Italy,59,1740,50,14.3,35.7
+Plate IX,Venice and Italy,59,1750,56,18.5,37.5
+Plate IX,Venice and Italy,59,1760,64,50,14
+Plate IX,Venice and Italy,59,1770,71,72.5,1.5
+Plate IX,Venice and Italy,59,1780,65.5,81,15.5
+Plate X,Russia,60,1700,109,135,26
+Plate X,Russia,60,1710,140,100,40
+Plate X,Russia,60,1720,195,50,145
+Plate X,Russia,60,1730,235,45,190
+Plate X,Russia,60,1740,335,75,260
+Plate X,Russia,60,1750,440,85,355
+Plate X,Russia,60,1760,570,98,472
+Plate X,Russia,60,1770,890,133,757
+Plate X,Russia,60,1780,1185,290,895
+Plate XVI,Holland,83,1700,2150,570,
+Plate XVI,Holland,83,1710,2100,510,
+Plate XVI,Holland,83,1720,1920,590,
+Plate XVI,Holland,83,1730,1840,510,
+Plate XVI,Holland,83,1740,2200,420,
+Plate XVI,Holland,83,1750,1930,370,
+Plate XVI,Holland,83,1760,1810,400,
+Plate XVI,Holland,83,1770,1780,480,
+Plate XVI,Holland,83,1780,1570,490,
+Plate XVII,The United States,83,1700,240,238,
+Plate XVII,The United States,83,1710,280,310,
+Plate XVII,The United States,83,1720,410,450,
+Plate XVII,The United States,83,1730,540,590,
+Plate XVII,The United States,83,1740,760,700,
+Plate XVII,The United States,83,1750,1110,760,
+Plate XVII,The United States,83,1760,1610,940,
+Plate XVII,The United States,83,1770,1660,900,
+Plate XVII,The United States,83,1780,1050,540,
+Plate XVIII,Denmark & Norway,83,1700,35,70,
+Plate XVIII,Denmark & Norway,83,1710,59,81,
+Plate XVIII,Denmark & Norway,83,1720,76,96,
+Plate XVIII,Denmark & Norway,83,1730,65,97,
+Plate XVIII,Denmark & Norway,83,1740,67,93,
+Plate XVIII,Denmark & Norway,83,1750,79,90,
+Plate XVIII,Denmark & Norway,83,1760,115,79,
+Plate XVIII,Denmark & Norway,83,1770,163,85,
+Plate XVIII,Denmark & Norway,83,1780,185,93,
+Plate XIX,Spanish West Indies,83,1700,,,
+Plate XIX,Spanish West Indies,83,1710,,,
+Plate XIX,Spanish West Indies,83,1720,84,34,
+Plate XIX,Spanish West Indies,83,1730,83,37,
+Plate XIX,Spanish West Indies,83,1740,11,12,
+Plate XIX,Spanish West Indies,83,1750,,,
+Plate XIX,Spanish West Indies,83,1760,1,13,
+Plate XIX,Spanish West Indies,83,1770,3,26,
+Plate XIX,Spanish West Indies,83,1780,7,28,
+Plate XX,Greenland,84,1700,,,
+Plate XX,Greenland,84,1710,,,
+Plate XX,Greenland,84,1720,0.1,0.2,
+Plate XX,Greenland,84,1730,0.05,2,
+Plate XX,Greenland,84,1740,,2.8,
+Plate XX,Greenland,84,1750,0.2,10,
+Plate XX,Greenland,84,1760,0.33,16,
+Plate XX,Greenland,84,1770,0.06,22,
+Plate XX,Greenland,84,1780,0.07,38,
+Plate XX,Bermuda,84,1700,0.6,0.5,
+Plate XX,Bermuda,84,1710,1,0.6,
+Plate XX,Bermuda,84,1720,3,1.9,
+Plate XX,Bermuda,84,1730,2.2,1.5,
+Plate XX,Bermuda,84,1740,1.5,0.8,
+Plate XX,Bermuda,84,1750,7.2,1.6,
+Plate XX,Bermuda,84,1760,10,1.8,
+Plate XX,Bermuda,84,1770,13,1.7,
+Plate XX,Bermuda,84,1780,15,1.7,
+Plate XXI,Sweden,111,1700,57,197,
+Plate XXI,Sweden,111,1710,46,160,
+Plate XXI,Sweden,111,1720,35,154,
+Plate XXI,Sweden,111,1730,29,183,
+Plate XXI,Sweden,111,1740,33,186,
+Plate XXI,Sweden,111,1750,30,196,
+Plate XXI,Sweden,111,1760,25,212,
+Plate XXI,Sweden,111,1770,57,209,
+Plate XXI,Sweden,111,1780,95,198,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1700,9,30,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1710,25,25,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1720,27,20,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1730,45,18,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1740,50,39,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1750,40,55,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1760,50,57,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1770,46,51,
+Plate XXII,Guernsey; Jersey; and Alderney,111,1780,64,61,
+Plate XXIII,Africa,111,1700,11,14,
+Plate XXIII,Africa,111,1710,7,18,
+Plate XXIII,Africa,111,1720,12,30,
+Plate XXIII,Africa,111,1730,18,50,
+Plate XXIII,Africa,111,1740,15,32,
+Plate XXIII,Africa,111,1750,16,27,
+Plate XXIII,Africa,111,1760,30,43,
+Plate XXIII,Africa,111,1770,48,53,
+Plate XXIII,Africa,111,1780,53,73,
+Plate XXIV,Portugal & Madeira,111,1700,630,250,
+Plate XXIV,Portugal & Madeira,111,1710,700,275,
+Plate XXIV,Portugal & Madeira,111,1720,800,350,
+Plate XXIV,Portugal & Madeira,111,1730,1070,365,
+Plate XXIV,Portugal & Madeira,111,1740,1140,340,
+Plate XXIV,Portugal & Madeira,111,1750,1200,350,
+Plate XXIV,Portugal & Madeira,111,1760,1110,300,
+Plate XXIV,Portugal & Madeira,111,1770,680,360,
+Plate XXIV,Portugal & Madeira,111,1780,590,370,
+Plate XXV,Flanders,112,1700,80,7,
+Plate XXV,Flanders,112,1710,150,20,
+Plate XXV,Flanders,112,1720,245,51,
+Plate XXV,Flanders,112,1730,270,125,
+Plate XXV,Flanders,112,1740,390,150,
+Plate XXV,Flanders,112,1750,345,70,
+Plate XXV,Flanders,112,1760,420,70,
+Plate XXV,Flanders,112,1770,840,175,
+Plate XXV,Flanders,112,1780,1050,225,
