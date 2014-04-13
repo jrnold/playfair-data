@@ -60,3 +60,59 @@
           - name: imports
             type: number
             description: Value of imports in thousands pounds.
+
+    - path: data/great_divisions_US.csv
+      name: great_divisions_US
+      title: "Great Divisions of the United States of America in 1800"
+      description: |
+        Data on the area and population of the states and territories of the United States of America in 1800.
+
+        This is the table on page 20 of the *Statistical Account of the United States of America* (1805),
+        which provides the source for the pie graph in that work.
+        However, the data used in the pie graph is given in the ``data/great_divisions_US_figure.csv`` data.
+      source:
+        name: "Donnant, Denis François, Statistical Account of the United States of America, London, 1805, p. 20."
+      schema:
+        - name: state
+          type: string
+        - name: first_settled
+          type: integer
+          description: When first settled (year)
+        - name: population85
+          type: number
+          description: "Number of inhabitants in '85, '86, and '87 (thousands)"
+        - name: population00
+          type: number
+          description: "Number of inhabitants in 1800 and 1801 (thousands)"
+        - name: pop_density1
+          type: number
+          description: "Number of inhabitants to a square mile last census"
+        - name: pop_density2
+          type: number
+          description: "Number at 100 to a square mile (thousands)"
+        - name: pop_growth
+          type: number
+          description: "Rate of increase during this interval"
+        - name: settled_years
+          type: integer
+          description: "Years since first settlement"
+    - path: data/great_divisions_US_figure.csv
+      name: great_divisions_US_figure
+      title: "Great Divisions of the United States of America in 1800"
+      description: |
+        Data on the area and population of the states and territories of the United States of America in 1800.
+
+        This is the data used to make the pie chart of the area of US states and territories in 1800 in the *Statistical Account of the United States of America* (1805).
+        The data largely comes from the Table on page 20 of the work, with some rounding of areas and addition of the area of "East and West Florida" and the "Western Territories".
+      source:
+        name: "Donnant, Denis François, Statistical Account of the United States of America, London, 1805"
+      schema:
+        - name: state
+          type: string
+        - name: area
+          type: integer
+          description: "Extent in square miles"
+        - name: source
+          type: string
+          description: |
+            Source of the number. "Figure" for those written on the figure; "Table" for those taken from the table on p. 20 because they are not written on the figure. The area of "East and West Florida" is the current area of the state of Florida.
