@@ -1,6 +1,7 @@
 ---
   name: playfair-data
   title: "Data from William Playfair's work"
+  version: "1.0.0"
   license: "PDDL-1.0"
   description: |
     Data used in William Playfair's works including the data used in the first uses of bar, pie, and line plots.
