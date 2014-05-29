@@ -39,7 +39,7 @@ degrees2num <- function(x) {
 
 .data <- read.csv(INFILE, stringsAsFactors = FALSE)
 .data <- select(.data, -description)
-variable <- .data$variable
+variable <- c("country", .data$variable)
 .data <-
     melt(.data,
          id.vars = "variable",

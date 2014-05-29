@@ -116,3 +116,57 @@
           type: string
           description: |
             Source of the number. "Figure" for those written on the figure; "Table" for those taken from the table on p. 20 because they are not written on the figure. The area of "East and West Florida" is the current area of the state of Florida.
+
+    - path: data/Playfair1801.csv
+      name: playfair_1801
+      title: "Resources of the States and Kingdoms of Europe in 1801"
+      description: >
+        Data on the resources of States and Kingdoms in Europe from Playfair (1801) *A Statistical Breviary*.
+      source:
+        name: "Playfair, William (1801) *The statistical breviary; shewing, on a principle entirely new, the resources of every state and kingdom in Europe; illustrated with stained copper plate charts, representing the physical powers of each distinct nation with ease and perspicuity. To which is added, a similar exhibition of the ruling powers of Hindoostan*, London."
+      schema:
+        - {label: country, name: country, type: string}
+        - {label: page, name: page, type: integer}
+        - {label: url, name: url, type: string}
+        - {label: Extent in square miles, name: miles_sq, type: number}
+        - {label: Number of inhabitants, name: population, type: integer}
+        - {label: Number of persons to a square mile, name: pop_density_miles, type: number}
+        - {label: Extent in English acres, name: acres, type: integer}
+        - {label: Number of acres to one person, name: pop_density_acres, type: number}
+        - {label: Revenue in pounds sterling, name: revenue, type: number}
+        - {label: Public Debt, name: public_debt, type: integer}
+        - {label: Land forces in time of peace, name: land_forces_peace, type: integer}
+        - {label: Land forces in time of war, name: land_forces_war, type: integer}
+        - {label: Seamen in time of peace, name: seamen_peace, type: integer}
+        - {label: Seamen in time of war, name: seamen_war, type: integer}
+        - {label: All Ships, name: ships, type: integer}
+        - {label: Ships of the line, name: ships_of_the_line, type: integer}
+        - {label: 'Frigates, sloops, etc.', name: ships_frigates_etc, type: integer}
+        - {label: Frigates, name: ships_frigates, type: integer}
+        - {label: Gallies, name: ships_gallies, type: integer}
+        - {label: Galliots, name: ships_galliots, type: integer}
+        - {label: Number of inhabitants in the capital, name: pop_capital, type: integer}
+        - {label: 'Number of cultivated acres, about', name: cultivated_acres, type: integer}
+        - {label: Number of parishes, name: parishes, type: integer}
+        - {label: 'Exports to England, average', name: exports, type: number}
+        - {label: 'Imports from England, average', name: imports, type: number}
+        - {label: Dvisions of the country, name: divisions, type: integer}
+        - {label: Great divisions of the country (number), name: great_divisions_number, type: integer}
+        - {label: Great divisions of the country (names), name: great_divisions_name, type: string}
+        - {label: 'Smaller divisions, provinces or distrincts', name: small_divisions, type: integer}
+        - {label: 'Smaller divisions, provinces or distrincts (description)', name: small_divisions_description, type: string}
+        - {label: Chief towns, name: chief_towns, type: string}
+        - {label: Longitude of central point of the country, name: center_long, type: number}
+        - {label: Latitude of central point of the country, name: center_lat, type: number}
+        - {label: Longitude of the capital or chief city, name: capital_long, type: number}
+        - {label: Latitude of the capital or chief city, name: capital_lat, type: number}
+        - {label: Religion, name: religion, type: string}
+        - {label: Amount of taxes on each individual, name: taxes_per_capita, type: number}
+        - {label: Interest of money, name: interest_rate, type: number}
+        - {label: Extent of sea coast (Leagues), name: sea_coast, type: number}
+        - {label: Revenues of the clergy, name: revenues_clergy, type: integer}
+        - {label: clergy, name: clergy, type: integer}
+        - {label: Expense of maintaining the poor, name: poor_maintenance, type: integer}
+        - {label: Expense of the clergy, name: clergy_expense, type: integer}
+        - {label: Tonnage of merchant ships, name: merchant_tonnage, type: integer}
+            
