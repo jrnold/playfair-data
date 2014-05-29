@@ -1,7 +1,7 @@
 ---
   name: playfair-data
   title: "Data from William Playfair's work"
-  version: "1.0.0"
+  version: "1.1.0"
   license: "PDDL-1.0"
   description: |
     Data used in William Playfair's works including the data used in the first uses of bar, pie, and line plots.
@@ -171,4 +171,17 @@
           - {label: Expense of maintaining the poor, name: poor_maintenance, type: integer}
           - {label: Expense of the clergy, name: clergy_expense, type: integer}
           - {label: Tonnage of merchant ships, name: merchant_tonnage, type: integer}
-            
+    - path: data/city_populations.csv
+      name: city_popuations
+      title: Imports and Exports of European Countries 1700-1780
+      description: |
+        Populations of the cities of Europe that are or have been capitals of the empires, kingdoms, or republics of Europe.
+        Data from Playfair (1801).
+      sources:
+        - name: "Playfair, William (1801) *The statistical breviary; shewing, on a principle entirely new, the resources of every state and kingdom in Europe; illustrated with stained copper plate charts, representing the physical powers of each distinct nation with ease and perspicuity. To which is added, a similar exhibition of the ruling powers of Hindoostan*, London."          
+      schema:
+        fields:      
+          - name: city
+            label: City
+          - name: pop
+            label: Population  
