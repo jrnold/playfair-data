@@ -1,8 +1,11 @@
-library("stringr")
-library("dplyr")
-library("reshape2")
+suppressPackageStartupMessages({
+    library("stringr")
+    library("dplyr")
+    library("reshape2")
+})
 
-FILE <- "Playfair 1801 - Sheet1.csv"
+INFILE <- commandArgs(TRUE)[1]
+OUTFILE <- commandArgs(TRUE)[2]
 
 makelat <- function(x) {}
 
@@ -22,7 +25,6 @@ sterling_str2num <- function(x) {
 }
 
 degrees2num <- function(x) {
-    print(x)
     y <- str_match(as.character(x),
                    "([0-9]+)[Dd](([0-9]+)[Mm])?(([0-9]+)[Ss])?\\s+([NSEWnsew])")
                    ## "([0-9]+)[Dd](([0-9]+)[Mm])?(([0-9]+)[Ss])?\\s+[EW])")
@@ -35,8 +37,9 @@ degrees2num <- function(x) {
 }
 
 
-.data <- read.csv(FILE, stringsAsFactors = FALSE)
+.data <- read.csv(INFILE, stringsAsFactors = FALSE)
 .data <- select(.data, -description)
+variable <- .data$variable
 .data <-
     melt(.data,
          id.vars = "variable",
@@ -83,6 +86,7 @@ degrees2num <- function(x) {
                 ships_of_the_line = as.integer(ships_of_the_line),
                 small_divisions = as.integer(small_divisions),
                 taxes_per_capita = sterling_str2num(taxes_per_capita))
-
-
+.data <- .data[ , variable]
+write.csv(.data, file = OUTFILE,
+          na = "", row.names = FALSE)
 
