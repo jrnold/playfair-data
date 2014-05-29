@@ -1,0 +1,44 @@
+description,variable,Empire of all the Russians,The Turkish Empire,The Kingdom of Sweden,The German Empire Before the War,The Emperor's Dominions Before the War,The Kingdom of Denmark,Poland Before the Division in 1793,France Before the Revolution,The Kingdom of Spain,Britain and Ireland,The Kingdom of Prussia,Naples and Two Scilies,The Kingdom of Portugal,Sardinia and Savoy,Seven United Provinces
+page,page,19,21,23,25,27,29,31,33,35,37,39,41,43,45,47
+url,url,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA19#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA21#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA23#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA25#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA27#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA29#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA31#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA33#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA35#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA37#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA39#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA41#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA43#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA45#v=onepage&q&f=false,http://books.google.com/books?id=M5xVAAAAcAAJ&pg=PA47#v=onepage&q&f=false
+Extent in square miles,miles_sq,4660000,790000,209000,197000,180000,170000,160000,149000,148000,104000,56000,30000,27000,20000,10000
+Number of inhabitants,population,25000000,24000000,3000000,25000000,19000000,2150000,8500000,26000000,11000000,14000000,5500000,6000000,1838000,3253000,2758000
+Number of persons to a square mile,pop_density_miles,5,31,14,128,108,12,53,174,74,136,90,200,67,162,257
+Extent in English acres,acres,3000000000,505600000,133000000,126000000,115000000,108000000,103000000,95000000,94000000,67000000,34000000,19200000,17280000,12800000,6400000
+Number of acres to one person,pop_density_acres,120,21,44.5,5,6,54,12,3.67,8.5,4.75,6,3.5,10,4,2.33
+Revenue in pounds sterling,revenue,7300000,7000000,1500000,14000000,11000000,1520000,450000,19000000,14000000,27000000,4200000,1400000,2150000,1850000,3500000
+Public Debt,public_debt,10000000,0,7000000,,40000000,2600000,,250000000,48000000,400000000,,,4000000,0,11000000
+Land forces in time of peace,land_forces_peace,380000,250000,50000,120000,365000,75000,18000,225000,104000,45000,224000,34000,36000,38000,36000
+Land forces in time of war,land_forces_war,530000,370000,140000,260000,450000,,100000,500000,250000,350000,350000,80000,60000,100000,
+Seamen in time of peace,seamen_peace,20000,30000,15000,,,18000,,24000,40000,18000,,5500,12000,6000,16000
+Seamen in time of war,seamen_war,40000,55000,35000,,,,,120000,104000,112000,,8000,22000,10000,40000
+All Ships,ships,,,,,,,,,,,,,,32,
+Ships of the line,ships_of_the_line,60,40,30,,,26,,75,74,187,,4,18,,40
+"Frigates, sloops, etc.",ships_frigates_etc,60,160,70,,,7,,185,56,441,,23,40,,50
+Frigates,ships_frigates,,20,10,,,,,,,,,,,,
+Gallies,ships_gallies,,40,60,,,,,,,,,,,,
+Galliots,ships_galliots,,100,,,,,,,,,,,,,
+Number of inhabitants in the capital,pop_capital,170000,900000,,254000,,90000,80000,700000,140000,1100000,80000,380000,120000,82000,212000
+"Number of cultivated acres, about",cultivated_acres,150000,128000000,24000000,90000000,,12600000,40000,75000000,40000000,40000000,25000000,,,,
+Number of parishes,parishes,18319,,,,,,,,19600,10000,,,3500,,1600
+"Exports to England, average",exports,1500000,260000,,,300000,110300,,45000,600000,30000000,,,,,600000
+"Imports from England, average",imports,550000,280000,,,1400000,219000,,150000,140000,25000000,,,,,1900000
+Dvisions of the country,divisions,,,,,10,,,,,,,,,,
+Great divisions of the country (number),great_divisions_number,2,3,7,33,,3,6,17,15,4,6,4,5,5,9
+Great divisions of the country (names),great_divisions_name,"Europe, Asia","Europe, Asia, Africa","Sweden, Gothland, Northland, Lapland, Finland, Pomeria, Wismer","6 Electorates, 16 Principalities, 11 Ecclesiastical States",,,,,,"England, Scotland, Wales, Ireland",,,,,
+"Smaller divisions, provinces or distrincts",small_divisions,44,22,44,8,,12,,,,117,27,19,,19,
+"Smaller divisions, provinces or distrincts (description)",small_divisions_description,,,,"4 Imperial free cities, and Imperial, Prussian, Swedish, and Danish territories",,,,,,counties,,,,,
+Chief towns,chief_towns,"Petersburgh 170,000; Moscow 250,000; Astracan 70,000; Cronstadt 60,000","Constantinople 900,000; Aleppo 290,000; Cairo 400,000; Ancona 104,000; Smyrna 120,000; Adrianople 80,000","Stockholm 80,000; Gothenburg 20,000; Carlserona 11,000; Stralsund 10,000",Vienna; Berlin; Hamburgh; Liege; Munich; Franckfort,"Vienna 254,000; Milan 130,000; Brussels 80,000; Prague 80,000; Ghent 60,000; Antwerp 50,000",Copenhagen; Altona; Elsineur,Warsaw; Dantzig; Cracow,Paris; Lyons; Marseilles; Bourdeaux; Nantes; Strasburg,"Madrid, Cadiz, Valencia, Seville","London, Dublin, Edinburgh, York, Liverpool, Bristol, Newcastle","Berlin, Breslaw, Konigsberg","Naples, Palermo, Bari, Catanea","Lisbon, Oporto","Turin, Vercelli, Cagliari","Amsterdam, Rotterdam, Leyden, Harlem, the Hague"
+Longitude of central point of the country,center_long,90D E,30D15M E,,12d E,14d20m E,10d15m E,24d E,2d30m E,4d11m W,1d3m W,,15d10m E,8d20m W,7d30m E,5d30m E
+Latitude of central point of the country,center_lat,60D N,36D N,,50d N,47d30m N,55d30m N,53d N,46d30m N,39d50m N,53d40m N,,41d N,39d30m N,45d N,54d N
+Longitude of the capital or chief city,capital_long,30D19M E,28D56M15S E,18D3M E,16d22m E,16d22m30s E,12d E,21d E,2d20m E,3d25m15s W,0d0m N,13d22m30s E,14d12m E,9d9m15s W,7d40m E,5d4m E
+Latitude of the capital or chief city,capital_lat,59D56M N,41D1M N,59d20m N,48d12m N,48d12m32s N,55d41m N,52d14m N,48d50m N,40d26m N,51d31m N,52d31m30d N,40d50m N,38d42m20s N,44d5m N,52d22m N
+Religion,religion,"Greek Catholic Church, of which the Emperor is chief; other religions tolerated",,Lutheran. Calvinist alone tolerated,"Roman Catholic, Lutheran, and Calvinist, upon a footing of equality",Roman Catholic; but great toleration,Lutheran; others tolerated,Roman Catholic and Lutheran,Roman Catholic,,"Protestant, Lutheran and Calvinist; all sects tolerated",Protestant,Roman Catholic,Roman Catholic; they are not tolerant to other religions,"Roman Catholic, but tolerant",Calvinist; but tolerant to all others
+Amount of taxes on each individual,taxes_per_capita,6s8d,6s10d,10s,11s2d,12s,15s3d,1s2d,14s8d,1l5s5d,1l18s3d,14s6d,4s9d,,10s6d,1l12s3d
+Interest of money,interest_rate,8,,,,,,,,,5,,,,,
+Extent of sea coast (Leagues),sea_coast,,,,0,18,573,,470,466,1200,50,,166,,236
+Revenues of the clergy,revenues_clergy,,,,,,,,25000000,,,,200000,,,
+clergy,clergy,146000,,,,,,,,300000,,,,,,
+Expense of maintaining the poor,poor_maintenance,,,,,,,,,,3000000,,,,,
+Expense of the clergy,clergy_expense,,,,,,,,,,7000000,,,,,
+Tonnage of merchant ships,merchant_tonnage,,,,,,,,,,1800000,,,,,
